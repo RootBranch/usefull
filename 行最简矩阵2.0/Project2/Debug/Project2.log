@@ -1,0 +1,9 @@
+﻿  judgeNumber.cpp
+D:\新建文件夹\行最简矩阵2.0\Project2\judgeNumber.cpp(11,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\新建文件夹\行最简矩阵2.0\Project2\judgeNumber.cpp(42,28): warning C4018: “<”: 有符号/无符号不匹配
+D:\新建文件夹\行最简矩阵2.0\Project2\judgeNumber.cpp(59,28): warning C4018: “<”: 有符号/无符号不匹配
+D:\新建文件夹\行最简矩阵2.0\Project2\judgeNumber.cpp(84,28): warning C4018: “<”: 有符号/无符号不匹配
+D:\新建文件夹\行最简矩阵2.0\Project2\judgeNumber.cpp(97,28): warning C4018: “<”: 有符号/无符号不匹配
+D:\新建文件夹\行最简矩阵2.0\Project2\judgeNumber.cpp(114,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\新建文件夹\行最简矩阵2.0\Project2\judgeNumber.cpp(123,21): warning C4018: “<”: 有符号/无符号不匹配
+  Project2.vcxproj -> D:\新建文件夹\行最简矩阵2.0\Debug\Project2.exe
